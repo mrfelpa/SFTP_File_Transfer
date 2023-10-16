@@ -57,6 +57,7 @@ Progress and status messages will be displayed during the execution of the scrip
 
 Once the script completes, it will display a success message.
 
+![test doc](https://github.com/0x5FE/SFTP_File_Transfer/assets/65371336/6efccb46-3761-484b-8f4a-cda45684c69e)
 
 
 # Potential Errors and Troubleshooting
