@@ -97,4 +97,4 @@ Once the script completes, it will display a success message.
         Ensure that the local file path ($localFilePath) is valid and has appropriate permissions for file operations.
 
 
-If you encounter any other errors or issues, please refer to the error message displayed by the script for more details. If necessary, consult the [WinSCP documentation](https://winscp.net/eng/docs/start) or seek assistance from your system administrator or network administrator.
+If you encounter any other errors or issues, please refer to the error message displayed by the script for more details. If necessary, consult the [WinSCP documentation](https://winscp.net/eng/docs/start).
