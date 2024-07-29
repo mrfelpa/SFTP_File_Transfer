@@ -37,12 +37,6 @@ Run the script by executing the following command:
 
 ***"The term 'New-WinSCPSession' is not recognized" error:*** This error occurs when the WinSCP module is not imported. Make sure you have imported the module by running the Import-Module WinSCP command before executing the script.
 
-***Authentication errors:*** If you encounter authentication-related errors, double-check the following:
-
-        Ensure that the provided $remoteUser is a valid username on the remote SFTP server.
-
-        Verify that the entered password is correct.
-
   ***Connection errors:*** If you are unable to connect to the remote server, verify the following:
 
         Ensure that the provided $remoteHost and $remotePort match the server's configuration.
